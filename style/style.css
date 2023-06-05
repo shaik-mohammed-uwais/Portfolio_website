@@ -661,4 +661,7 @@ a {
 }
 .footer_soc_icon {
   font-size: 1.5rem;
+    padding: 0.4rem;
+  border-radius: 4rem;
+  background-color: var(--secondary-color);
 }
